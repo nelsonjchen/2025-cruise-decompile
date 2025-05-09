@@ -6,7 +6,7 @@ I am taking a cruise. Unfortunately, there is no way to look at the excursions a
 
 1. Interept the activities call from AMAWaterways app using Charles Proxy or similar tool.
 
-2. Run `uv run build.py` to read `activities.json` and create a new file called `Excursions.md` in the same directory. This file contains the excursion information in a more readable Markdown format.
+2. Run `uv run generate.py` to read `activities.json` and create a new file called `Excursions.md` in the same directory. This file contains the excursion information in a more readable Markdown format.
 
 ## Desired Output format of `Excursions.md`
 
