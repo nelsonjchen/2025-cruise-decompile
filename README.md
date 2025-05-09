@@ -81,7 +81,7 @@ Annotated JSON with some notes on the format:
       "Other": null,
       "FreeTime": null
     },
-    "Distance": "",
+    "Distance": "",  // If present, append to the bullet points as "Distance: <value>""
     "DistanceKm": null,
     "DistanceMi": null,
     "PreCruise": true,
