@@ -116,3 +116,7 @@ Annotated JSON with some notes on the format:
     "IgnoreBikeCapacityLimitCheck": false
   },
 ```
+
+## Development
+
+Just use Roo Code and the orchestrator mode. Excursions.md is not in `.gitignore` so it will be created in the same directory as the script so it can be pushed to GitHub for easy Markdown reading.
