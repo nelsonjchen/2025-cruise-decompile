@@ -1,16 +1,19 @@
 import json
+import csv # Import the csv module
 from datetime import datetime
+
+# Reuse the emoji mapping
+emoji_map = {
+    "ALT": "🔄",
+    "BIKE": "🚴",
+    "HIKE": "⛰️",
+    "MAIN": "⭐",
+    "OPT": "💰"
+}
 
 def format_excursion(excursion):
     """Formats a single excursion into Markdown."""
     # Map activity types to emojis
-    emoji_map = {
-        "ALT": "🔄",
-        "BIKE": "🚴",
-        "HIKE": "⛰️",
-        "MAIN": "⭐",
-        "OPT": "💰"
-    }
     activity_type = excursion.get('Type', '')
     emoji = emoji_map.get(activity_type, '')
 
@@ -93,17 +96,68 @@ def generate_excursions_markdown(activities_data):
 
     return markdown_content
 
+def generate_excursions_csv(activities_data):
+    """Generates the CSV content for excursion-who.csv."""
+    csv_content = []
+    # Add headers
+    headers = ["POIName", "Date", "Time of Day", "Excursion Name", "Person 1", "Person 2", "Person 3", "Person 4"]
+    csv_content.append(headers)
+
+    for activity in activities_data:
+        # Extract data, handling potential missing keys gracefully
+        poi_name = activity.get('POIName', '')
+        date_str = activity.get('Date', '')
+        time_of_day = activity.get('TimeOfDay', '')
+        excursion_name_raw = activity.get('Name', '').strip()
+        activity_type = activity.get('Type', '')
+
+        # Format Excursion Name with emoji
+        emoji = emoji_map.get(activity_type, '')
+        excursion_name_formatted = f"{emoji} {excursion_name_raw}".strip()
+
+        # Create the row with placeholder Person columns
+        row = [
+            poi_name,
+            datetime.strptime(date_str, '%Y-%m-%d').strftime('%a, %b %d'),
+            time_of_day,
+            excursion_name_formatted,
+            "", # Person 1
+            "", # Person 2
+            "", # Person 3
+            ""  # Person 4
+        ]
+        csv_content.append(row)
+
+    # Use csv.writer to handle quoting and formatting correctly
+    import io
+    output = io.StringIO()
+    writer = csv.writer(output)
+    writer.writerows(csv_content)
+    return output.getvalue()
+
+
 # Main execution
 try:
     with open('activities.json', 'r') as f:
         activities_data = json.load(f)
 
+    # Generate Markdown output
     markdown_output = generate_excursions_markdown(activities_data)
 
+    # Write to Markdown file
     with open('Excursions.md', 'w') as f:
         f.write(markdown_output)
 
     print("Successfully generated Excursions.md")
+
+    # Generate CSV output
+    csv_output = generate_excursions_csv(activities_data)
+
+    # Write to CSV file
+    with open('excursion-who.csv', 'w', newline='') as f: # Use newline='' for csv writing
+        f.write(csv_output)
+
+    print("Successfully generated excursion-who.csv")
 
 except FileNotFoundError:
     print("Error: activities.json not found. Please make sure the file exists in the same directory.")

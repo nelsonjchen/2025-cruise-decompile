@@ -135,7 +135,7 @@ Sample Snippet:
 
 ```csv
 "POIName", "Date", "Time of Day", "Excursion Name", "Person 1", "Person 2", "Person 3", "Person 4"
-"Budapest", "2025-07-06", "Morning", "⭐ Hidden Budapest Tour", "Person 1", "Person 2", "Person 3", "Person 4"
+"Budapest", "Sun, Jul 06", "Morning", "⭐ Hidden Budapest Tour", "Person 1", "Person 2", "Person 3", "Person 4"
 ```
 
 ## Development
