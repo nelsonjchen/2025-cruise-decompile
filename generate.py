@@ -3,7 +3,18 @@ from datetime import datetime
 
 def format_excursion(excursion):
     """Formats a single excursion into Markdown."""
-    markdown = f"#### {excursion['Name'].strip()}\n\n"
+    # Map activity types to emojis
+    emoji_map = {
+        "ALT": "🔄",
+        "BIKE": "🚴",
+        "HIKE": "⛰️",
+        "MAIN": "⭐",
+        "OPT": "💰"
+    }
+    activity_type = excursion.get('Type', '')
+    emoji = emoji_map.get(activity_type, '')
+
+    markdown = f"#### {emoji} {excursion['Name'].strip()}\n\n"
     markdown += f"* Excursion Time: {excursion['TimeOfDay']}\n"
     if excursion['Durations'] and excursion['Durations'].get('Total'):
         markdown += f"* Duration: {excursion['Durations']['Total'].strip()}\n"

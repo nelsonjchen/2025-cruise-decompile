@@ -46,6 +46,12 @@ Notes for generation.
   * Don't show anything if there's nothing for that section.
 * Only show things with a `Difficulty` value. Hide the rest.
 * Append `Notes` to the end of each excursion entry in bold markdown text.
+* Prepend an emoji to the excursion name based on the `Type`:
+    *   "ALT": 🔄
+    *   "BIKE": 🚴
+    *   "HIKE": ⛰️
+    *   "MAIN": ⭐
+    *   "OPT": 💰
 
 Annotated JSON with some notes on the format:
 

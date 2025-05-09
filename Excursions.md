@@ -4,7 +4,7 @@
 
 ### Morning
 
-#### Hidden Budapest Tour
+#### ⭐ Hidden Budapest Tour
 
 * Excursion Time: Morning
 * Duration: 3 hrs 30 mins
@@ -26,7 +26,7 @@ Aquincum Museum, Elizabeth Square, St. Stephen’s Basilica, Liberty Square
 
 ### Full Day
 
-#### Optional Tour: Puszta & Godollo Tour
+#### 💰 Optional Tour: Puszta & Godollo Tour
 
 * Excursion Time: Full Day
 * Duration: 7 hrs 30 mins
@@ -46,7 +46,7 @@ Gödöllő Royal Palace, Lázár Horse show
 
 ### Morning
 
-#### Buda City Tour
+#### ⭐ Buda City Tour
 
 * Excursion Time: Morning
 * Duration: 3 hrs
@@ -64,7 +64,7 @@ Dózsa György Square, Matthias Church
 
 Buda Castle Hill, Fisherman’s Bastion
 
-#### Buda City Late Starter Tour
+#### 🔄 Buda City Late Starter Tour
 
 * Excursion Time: Morning
 * Duration: 2 hrs
@@ -80,7 +80,7 @@ Buda Castle Hill
 
 **The main difference between the "Buda City Tour" (Tour A) and the "Late Starter" tour is that the "Late Starter" will not have any free time during the tour.**
 
-#### Gentle Budapest City Tour
+#### 🔄 Gentle Budapest City Tour
 
 * Excursion Time: Morning
 * Duration: 2 hrs 30 mins
@@ -95,7 +95,7 @@ Castle Garden, Margaret Bridge, Pest embankment, Elisabeth Square, Great Synagog
 
 **After joining this tour you have covered most of the sites you would see on the afternoon Pest city tour. Now have a free afternoon to explore Budapest on your own or join the regular paced Pest city tour if you wish. (no Gentle option available).**
 
-#### Castle Hill Hike
+#### ⛰️ Castle Hill Hike
 
 * Excursion Time: Morning
 * Duration: 3 hrs
@@ -117,7 +117,7 @@ Fisherman’s Bastion, Buda Castle Hill
 
 ### Afternoon
 
-#### Pest City Tour
+#### ⭐ Pest City Tour
 
 * Excursion Time: Afternoon
 * Duration: 3 hrs
@@ -131,7 +131,7 @@ Explore the treasures of the “Pest” side of Budapest, discovering its histor
 
 ### Afternoon
 
-#### "Coronation City" Walking Tour
+#### ⭐ "Coronation City" Walking Tour
 
 * Excursion Time: Afternoon
 * Duration: 1 hr 30 mins
@@ -148,7 +148,7 @@ St. Martin‘s Cathedral, Michael‘s Gate, Old Town Hall, Primatial Palace, Ope
 
 Main Square
 
-#### Tastes of Slovakia
+####  Tastes of Slovakia
 
 * Excursion Time: Afternoon
 * Duration: 2 hrs
@@ -161,7 +161,7 @@ Enjoy the opportunity to savor some local Slovakian craft beer at a local brew p
 
 Local Brew Pub
 
-#### Bratislava Castle Hike
+#### ⛰️ Bratislava Castle Hike
 
 * Excursion Time: Afternoon
 * Duration: 2 hrs
@@ -185,7 +185,7 @@ Main Square
 
 ### Morning
 
-#### "Imperial Vienna" Tour
+#### ⭐ "Imperial Vienna" Tour
 
 * Excursion Time: Morning
 * Duration: 3 hrs 15 mins
@@ -203,7 +203,7 @@ Vienna Opera House, St. Stephen’s Cathedral, Museum of Fine Arts, Museum of Na
 
 UNESCO World Heritage Site - “Historic Centre of Vienna”
 
-#### Vienna City Tour by Bike
+#### 🚴 Vienna City Tour by Bike
 
 * Excursion Time: Morning
 * Duration: 3 hrs
@@ -216,7 +216,7 @@ Join your friendly guide for a thrilling bike ride along the romantic Danube Can
 
 ### Evening
 
-#### Optional Tour: Mozart & Strauss Concert
+#### 💰 Optional Tour: Mozart & Strauss Concert
 
 * Excursion Time: Evening
 * Duration: 3 hrs
@@ -239,7 +239,7 @@ Local Vienna Venue
 
 ### Afternoon
 
-#### Exclusive Castle Visit
+#### ⭐ Exclusive Castle Visit
 
 * Excursion Time: Afternoon
 * Duration: 1 hr 30 mins
@@ -256,7 +256,7 @@ Castle Greinburg
 
 ### Morning
 
-#### Highlights of Dürnstein and Melk Abbey
+#### ⭐ Highlights of Dürnstein and Melk Abbey
 
 * Excursion Time: Morning
 * Duration: 4 hrs 30 mins
@@ -274,7 +274,7 @@ Kuenringer Castle, Abbey Church, UNESCO World Heritage Site – “Wachau Cultur
 
 Melk’s Benedictine Abbey
 
-#### Dürnstein Walking Tour, Wine Tasting and Apricots and Sweets Tasting
+####  Dürnstein Walking Tour, Wine Tasting and Apricots and Sweets Tasting
 
 * Excursion Time: Morning
 * Duration: 4 hrs 30 mins
@@ -287,7 +287,7 @@ Situated in the heart of the magnificent Wachau Valley, on the banks of the migh
 
 Kuenringer Castle, Abbey Church, Dürnstein Fortress, UNESCO World Heritage Site – “Wachau Cultural Landscape”
 
-#### Dürnstein Fortress Hike
+#### ⛰️ Dürnstein Fortress Hike
 
 * Excursion Time: Morning
 * Duration: 4 hrs 30 mins
@@ -304,7 +304,7 @@ Kuenringer Castle, Abbey Church, UNESCO World Heritage Site – “Wachau Cultur
 
 **This hike is capacity controlled with a limited maximum participation. Please be sure to sign up early to secure your spot on this tour. Once all slots have been filled, we are unable to guarantee that any additional accommodations can be made. We thank you in advance for your understanding. This hike is subject to change/cancellation pending weather conditions, which may affect guest safety.**
 
-#### Weissenkirchen to Melk Bike Tour
+#### 🚴 Weissenkirchen to Melk Bike Tour
 
 * Excursion Time: Morning
 * Duration: 4 hrs 30 mins
@@ -323,7 +323,7 @@ UNESCO World Heritage Site – “Wachau Cultural Landscape”
 
 ### Full Day
 
-#### Full-Day Salzburg Excursion
+#### 🔄 Full-Day Salzburg Excursion
 
 * Excursion Time: Full Day
 * Duration: 8 hrs 30 mins
@@ -341,7 +341,7 @@ Hohensalzburg Fortress, Cathedral, Mozart’s Birthplace
 
 Getreidegasse, Mirabell Gardens, Residenz Square with Fountain
 
-#### Český Krumlov Excursion & Linz Walking Tour
+#### ⭐ Český Krumlov Excursion & Linz Walking Tour
 
 * Excursion Time: Full Day
 * Duration: 8 hrs 30 mins
@@ -363,7 +363,7 @@ UNESCO World Heritage Site “Historic Center of Český Krumlov.” Main Square
 
 ### Morning
 
-#### "UNESCO City of Media Arts" Walking Tour
+#### ⭐ "UNESCO City of Media Arts" Walking Tour
 
 * Excursion Time: Morning
 * Duration: 1 hr 15 mins
@@ -380,7 +380,7 @@ Landstrasse, the Old Market, Mozart House, Landes Theater, the Trinity Column, C
 
 Main Square
 
-#### "Cultural Mile" Bike Tour
+#### 🚴 "Cultural Mile" Bike Tour
 
 * Excursion Time: Morning
 * Duration: 1 hr 30 mins
@@ -397,7 +397,7 @@ Ars Electronica Center, Danube River, Old City Center, Landesgalerie (The Nation
 
 ### Afternoon
 
-#### Distillery Tour
+#### ⭐ Distillery Tour
 
 * Excursion Time: Afternoon
 * Duration: 3 hrs
@@ -413,7 +413,7 @@ Local Distillery
 
 ### Morning
 
-#### "City of Three Rivers" Walking Tour
+#### ⭐ "City of Three Rivers" Walking Tour
 
 * Excursion Time: Morning
 * Duration: 2 hrs
@@ -426,7 +426,7 @@ Passau is known as the Dreiflussestadt or "City of Three Rivers," because the Da
 
 Town Hall, Domplatz, Residenzplatz, St. Stephan’s Cathedral
 
-#### Passau Castle Hike
+#### ⛰️ Passau Castle Hike
 
 * Excursion Time: Morning
 * Duration: 2 hrs 15 mins
@@ -446,7 +446,7 @@ Veste Oberhaus
 
 **This hike is capacity controlled and is subject to change/cancellation pending weather conditions which may affect guest safety.This is a strenuous climb. Firm hiking shoes are required.**
 
-#### River Inn Bike Tour
+#### 🚴 River Inn Bike Tour
 
 * Excursion Time: Morning
 * Duration: 2 hrs 30 mins
@@ -465,7 +465,7 @@ Passau's City theater, St. Michael's Church, Neue Bischofliche Residenz (New Epi
 
 ### Evening
 
-#### Exclusive Oktoberfest Celebration
+#### ⭐ Exclusive Oktoberfest Celebration
 
 * Excursion Time: Evening
 * Duration: 1 hr
@@ -477,7 +477,7 @@ Experience the hospitality of Vilshofen, a charming Bavarian town.  You will be 
 
 ### Full Day
 
-#### Vilshofen to Prague Transfer & Regensburg Walking Tour
+####  Vilshofen to Prague Transfer & Regensburg Walking Tour
 
 * Excursion Time: Full Day
 * Duration: 8 hrs
@@ -499,7 +499,7 @@ UNESCO World Heritage Site – “Regensburg Old Town”
 
 ### Morning
 
-#### "Golden City of a Hundred Spires" Tour
+#### ⭐ "Golden City of a Hundred Spires" Tour
 
 * Excursion Time: Morning
 * Duration: 3 hrs 30 mins
@@ -517,7 +517,7 @@ Church of Tyn, Astronomical Clock, Old Market Square
 
 Prague Castle, Charles Bridge, UNESCO World Heritage Site, “Historic Prague City Center”, Old Market Square
 
-#### Prague Castle Hike
+#### ⛰️ Prague Castle Hike
 
 * Excursion Time: Morning
 * Duration: 4 hrs
@@ -539,7 +539,7 @@ Prague Castle, Charles Bridge, UNESCO World Heritage Site
 
 ### Afternoon
 
-#### Czech Beer Tasting
+#### ⭐ Czech Beer Tasting
 
 * Excursion Time: Afternoon
 * Duration: 2 hrs
@@ -550,7 +550,7 @@ Czech Beer Tasting with fresh bread and spreads.
 
 ### Evening
 
-#### Optional Tour: Folklore Dinner
+#### 💰 Optional Tour: Folklore Dinner
 
 * Excursion Time: Evening
 * Duration: 3 hrs 30 mins
@@ -573,7 +573,7 @@ U Marcanu Restaurant or Eureka Restaurant
 
 ### Morning
 
-#### Optional Tour: Terezin
+#### 💰 Optional Tour: Terezin
 
 * Excursion Time: Morning
 * Duration: 5 hrs
