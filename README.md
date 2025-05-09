@@ -29,11 +29,11 @@ The below is a sample of the desired output format.
 
 Often described as the “Queen of the Danube,” Budapest is well-known for Fisherman’s Bastion, Buda Hill and its magnificent Hungarian Parliament building. However, this sprawling city is full of rich history and culture and offers many “hidden” treasures as you venture further past its river banks. During this excursion, your guide will take you deeper into the city to discover fascinating sites lesser-known to the average traveler.
 
-##### What you will see
+**What you will see**
 
 Margaret Bridge, Nyugati Railway Station
 
-##### What you will visit
+**What you will visit**
 
 Aquincum Museum, Elizabeth Square, St. Stephen’s Basilica, Liberty Square
 
