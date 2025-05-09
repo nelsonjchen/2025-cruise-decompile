@@ -93,7 +93,6 @@ def generate_excursions_markdown(activities_data):
                 markdown_content += f"### {time_of_day}\n\n"
                 for excursion in activities_by_time[time_of_day]:
                     markdown_content += format_excursion(excursion)
-
     return markdown_content
 
 def generate_excursions_csv(activities_data):
@@ -104,29 +103,31 @@ def generate_excursions_csv(activities_data):
     csv_content.append(headers)
 
     for activity in activities_data:
-        # Extract data, handling potential missing keys gracefully
-        poi_name = activity.get('POIName', '')
-        date_str = activity.get('Date', '')
-        time_of_day = activity.get('TimeOfDay', '')
-        excursion_name_raw = activity.get('Name', '').strip()
-        activity_type = activity.get('Type', '')
+        # Only include activities with a Difficulty value
+        if activity.get('Difficulty'):
+            # Extract data, handling potential missing keys gracefully
+            poi_name = activity.get('POIName', '')
+            date_str = activity.get('Date', '')
+            time_of_day = activity.get('TimeOfDay', '')
+            excursion_name_raw = activity.get('Name', '').strip()
+            activity_type = activity.get('Type', '')
 
-        # Format Excursion Name with emoji
-        emoji = emoji_map.get(activity_type, '')
-        excursion_name_formatted = f"{emoji} {excursion_name_raw}".strip()
+            # Format Excursion Name with emoji
+            emoji = emoji_map.get(activity_type, '')
+            excursion_name_formatted = f"{emoji} {excursion_name_raw}".strip()
 
-        # Create the row with placeholder Person columns
-        row = [
-            poi_name,
-            datetime.strptime(date_str, '%Y-%m-%d').strftime('%a, %b %d'),
-            time_of_day,
-            excursion_name_formatted,
-            "", # Person 1
-            "", # Person 2
-            "", # Person 3
-            ""  # Person 4
-        ]
-        csv_content.append(row)
+            # Create the row with placeholder Person columns
+            row = [
+                poi_name,
+                datetime.strptime(date_str, '%Y-%m-%d').strftime('%a, %b %d'),
+                time_of_day,
+                excursion_name_formatted,
+                "", # Person 1
+                "", # Person 2
+                "", # Person 3
+                ""  # Person 4
+            ]
+            csv_content.append(row)
 
     # Use csv.writer to handle quoting and formatting correctly
     import io
