@@ -1,10 +1,10 @@
-# 2025 AMAWaterways Cruise Decompile
+# 2025 AMAWaterways App Excursion JSON to Markdown Generator
 
 I am taking a cruise. Unfortunately, there is no way to look at the excursions available for our cruise trip online. Thankfully, I am able to intercept the JSON file from the app.
 
 ## Usage
 
-1. Interept the activities call from AMAWaterways app using Charles Proxy or similar tool.
+1. Interept the activities call from AMAWaterways app using Charles Proxy or similar tool. Find the JSON that corresponds to the excursions and save it as `activities.json`.
 
 2. Run `uv run generate.py` to read `activities.json` and create a new file called `Excursions.md` in the same directory. This file contains the excursion information in a more readable Markdown format.
 
