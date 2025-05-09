@@ -101,6 +101,7 @@ Castle Garden, Margaret Bridge, Pest embankment, Elisabeth Square, Great Synagog
 * Duration: 3 hrs
 * Level of Difficulty: 5
 * Duration of walk: 3 hrs
+* Distance: 7 km / 4 miles
 
 As an alternative to the panoramic city tour of Budapest, the more active guest may choose instead to venture up to the Castle Hill district by foot to see Fisherman’s Bastion and Buda Castle. Overlooking the city, Buda Castle sits 160 feet above the Danube and offers a beautiful view of the city below.
 
@@ -166,6 +167,7 @@ Local Brew Pub
 * Duration: 2 hrs
 * Level of Difficulty: 4-5
 * Duration of walk: 2 hrs
+* Distance: 4 km / 3 miles
 
 Gleaming Bratislava Castle presides from above the city. As an alternative to the walking tour, the more active guest may choose instead to venture through the city up to the castle. Along the way, you'll see such sights as the tree-lined Hviezdoslav Square, the narrow House of the Good Shepherd, Michael's Gate and the Old Town Hall. Once at the castle, you'll enjoy picture-worthy views across the magnificent city.
 
@@ -206,6 +208,7 @@ UNESCO World Heritage Site - “Historic Centre of Vienna”
 * Excursion Time: Morning
 * Duration: 3 hrs
 * Level of Difficulty: 5
+* Distance: 18 km / 11 miles
 
 Join your friendly guide for a thrilling bike ride along the romantic Danube Canal and through the fascinating city of Vienna. Along the way, you’ll traverse a bridge, cycle across a meadow and head to Vienna’s famous Ringstrasse boulevard, taking in such iconic sites as the distinctive domed Karlsplatz Church, the elegant State Opera House and the royal Habsburgs’ Imperial Palace. Enjoy some free time in the city, perhaps to try some sacher torte, shop for souvenirs or take photos. Then, follow your guide on a new path back to the ship that may include opportunities to see City Hall, the local university, Börse Palais concert hall, the giant ferris wheel and more.
 
@@ -291,6 +294,7 @@ Kuenringer Castle, Abbey Church, Dürnstein Fortress, UNESCO World Heritage Site
 * Level of Difficulty: 5
 * Duration of walk: 2 hrs 15 mins
 * Duration of bus ride: 1 hr 15 mins
+* Distance: 3 km / 2 miles
 
 As an alternative to the walking tour of Dürnstein, the more active guest may choose to venture high above the town for a visit to the majestic ruins of Kuenringer Castle, or “Dürnstein” (‘dry stone’) castle from which Dürnstein derives its name.
 
@@ -305,6 +309,7 @@ Kuenringer Castle, Abbey Church, UNESCO World Heritage Site – “Wachau Cultur
 * Excursion Time: Morning
 * Duration: 4 hrs 30 mins
 * Level of Difficulty: 4
+* Distance: 24 km / 15 miles
 
 Experience the majestic UNESCO-designated Wachau Valley, dotted with vineyards, fruit trees, castles, charming villages and unforgettable scenery, on a guided bike tour from Weissenkirchen to Melk. The Wachau Valley is one of the most beautiful and famous regions in Austria. Visitors from all over the world come here to enjoy the picturesque landscape, the cultural heritage and the superb wines that grow in this region. On arrival in Melk, you will transfer via motorcoach to the ship located in Ybbs.
 
@@ -380,6 +385,7 @@ Main Square
 * Excursion Time: Morning
 * Duration: 1 hr 30 mins
 * Level of Difficulty: 4
+* Distance: 9 km / 6 miles
 
 As an alternative to the walking tour, this guided bike tour of Linz will take you past the ultra-modern Ars Electronica Center and along the city’s famed "Culture Mile," which plays host to the annual Linz Ars Electronica Festival. From futuristic to historical, you will carry on along the Danube River, offering grand views of Linzer Schloss Castle. Cross over the river into the heart of Linz and cycle by Landesgalerie (The National Gallery) and OK Centrum (Museum of Contemporary Art) towards Linz’ New Cathedral.  After an inside visit to this beautiful Gothic Revival Cathedral, continue through the Old City Center, home to Mozarthaus, Rathaus and the State Government on your way back to the ship. With sites steeped in history, art, technology and culture, you will experience a city with feet firmly planted in its rich past, and arms wide open to a vibrant future.
 
@@ -426,6 +432,7 @@ Town Hall, Domplatz, Residenzplatz, St. Stephan’s Cathedral
 * Duration: 2 hrs 15 mins
 * Level of Difficulty: 5
 * Duration of walk: 2 hrs 15 mins
+* Distance: 4 km / 2 miles
 
 As an alternative to the walking tour of Passau, the more active guest may choose instead to venture high into the hills for a visit to “Veste Oberhaus,” Passau’s Castle Hill, which is enthroned 1,253 feet above the Danube and offers magnificent views across the old town of Passau.
 
@@ -444,6 +451,7 @@ Veste Oberhaus
 * Excursion Time: Morning
 * Duration: 2 hrs 30 mins
 * Level of Difficulty: 5
+* Distance: 23 km / 14 miles
 
 Experience this charming area on a guided bike tour along the Inn River to Wernstein. Crossing the old town of Passau, ride beside the Inn and its scenic shores lined with lush greenery and wooden hills. Arrive in Wernstein for a quick resting break and take some memorable photos. Return to Passau by biking along the other side of the Inn, bringing to light a new point of view as you make your way back towards the Danube. Cycling into Passau rewards you with a beautiful silhouette of the old town.
 
@@ -515,6 +523,7 @@ Prague Castle, Charles Bridge, UNESCO World Heritage Site, “Historic Prague Ci
 * Duration: 4 hrs
 * Level of Difficulty: 5
 * Duration of walk: 4 hrs
+* Distance: 8 km / 5 miles
 
 As an alternative to the walking tour of Prague, the more active guest may choose instead to venture high into the hills for a visit to Prague’s Castle to overlook the beautiful city. Begin your hike through the historical Old Town with its charming narrow streets as you approach the castle hill. After visiting the Prague Castle grounds, descend through the beautiful Baroque Lesser Quarter, Malá Strana, and return to your hotel.
 

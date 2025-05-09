@@ -13,6 +13,10 @@ def format_excursion(excursion):
         markdown += f"* Duration of walk: {excursion['Durations']['Walk'].strip()}\n"
     if excursion['Durations'] and excursion['Durations'].get('Bus'):
         markdown += f"* Duration of bus ride: {excursion['Durations']['Bus'].strip()}\n"
+    # Add Distance if present
+    if excursion.get('Distance'):
+        markdown += f"* Distance: {excursion['Distance'].strip()}\n"
+
 
     markdown += f"\n{excursion['Description'].strip()}\n\n"
 
