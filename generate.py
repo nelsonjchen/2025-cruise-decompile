@@ -8,7 +8,9 @@ emoji_map = {
     "BIKE": "🚴",
     "HIKE": "⛰️",
     "MAIN": "⭐",
-    "OPT": "💰"
+    "OPT": "💰",
+    "SIT": "🥂",
+    "SIT2": "🥂"
 }
 
 def format_excursion(excursion):

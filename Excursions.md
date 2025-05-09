@@ -148,7 +148,7 @@ St. Martin‘s Cathedral, Michael‘s Gate, Old Town Hall, Primatial Palace, Ope
 
 Main Square
 
-####  Tastes of Slovakia
+#### 🥂 Tastes of Slovakia
 
 * Excursion Time: Afternoon
 * Duration: 2 hrs
@@ -274,7 +274,7 @@ Kuenringer Castle, Abbey Church, UNESCO World Heritage Site – “Wachau Cultur
 
 Melk’s Benedictine Abbey
 
-####  Dürnstein Walking Tour, Wine Tasting and Apricots and Sweets Tasting
+#### 🥂 Dürnstein Walking Tour, Wine Tasting and Apricots and Sweets Tasting
 
 * Excursion Time: Morning
 * Duration: 4 hrs 30 mins

@@ -54,6 +54,8 @@ Notes for generation.
     *   "HIKE": ⛰️
     *   "MAIN": ⭐
     *   "OPT": 💰
+    *   "SIT": 🥂
+    *   "SIT2": 🥂
 
 Annotated JSON with some notes on the format:
 
