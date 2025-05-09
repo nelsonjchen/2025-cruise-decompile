@@ -1,6 +1,8 @@
 # 2025 AMAWaterways App Excursion JSON to Markdown Generator
 
-I am taking a cruise. Unfortunately, there is no way to look at the excursions available for our cruise trip online. Thankfully, I am able to intercept the JSON file from the app.
+I am taking a cruise. ~~Unfortunately, there is no way to look at the excursions available for our cruise trip online~~. Thankfully, I am able to intercept the JSON file from the app.
+
+edit: Well, you can look at it online, but intercepting it gives all the excursion information in a single nice formatted JSON file.
 
 ## Usage
 
