@@ -8,7 +8,7 @@ edit: Well, you can look at it online, but intercepting it gives all the excursi
 
 1. Interept the activities call from AMAWaterways app using Charles Proxy or similar tool. Find the JSON that corresponds to the excursions and save it as `activities.json`.
 
-2. Run `uv run generate.py` to read `activities.json` and create a new file called `Excursions.md` in the same directory. This file contains the excursion information in a more readable Markdown format.
+2. Run `uv run generate.py` to read `activities.json` and create a new file called `Excursions.md` in the same directory. This file contains the excursion information in a more readable Markdown format. An additional file called `excursion-who.csv` will also be created in the same directory for tracking who is going on what excursion.
 
 ## Desired Output format of `Excursions.md`
 
@@ -123,6 +123,19 @@ Annotated JSON with some notes on the format:
     "GuestLimitMessage": null,
     "IgnoreBikeCapacityLimitCheck": false
   },
+```
+
+### Desired Output format of `excursion-who.csv` for import into Google Sheets for tracking who is going on what excursion.
+
+`generate.py` will also create a `excursion-who.csv` file in the same directory as the script. This file contains the excursion information in a CSV format that can be imported into Google Sheets for tracking who is going on what excursion.
+
+Replace "Person 1", "Person 2", etc. with the names of the people going on the excursion. Make sure to freeze the first row in Google Sheets so you can see the names of the people going on the excursion.
+
+Sample Snippet:
+
+```csv
+"POIName", "Date", "Time of Day", "Excursion Name", "Person 1", "Person 2", "Person 3", "Person 4"
+"Budapest", "2025-07-06", "Morning", "⭐ Hidden Budapest Tour", "Person 1", "Person 2", "Person 3", "Person 4"
 ```
 
 ## Development
