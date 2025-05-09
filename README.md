@@ -63,7 +63,7 @@ Annotated JSON with some notes on the format:
     "WhatVisit": "Aquincum Museum, Elizabeth Square, St. Stephen’s Basilica, Liberty Square",
     "Notes": null, // This is null but some others have text so append it to the end of the excursion entry in bold markdown text.
     "AcceptMessage": null,
-    "SellPrice": null,
+    "SellPrice": null, // When this is not null, replace "[@SellPrice]" with the value."
     "IsOptionalSelected": false,
     "IsTransferActivity": false,
     "Difficulty": "1-2",
