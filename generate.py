@@ -32,11 +32,11 @@ def format_excursion(excursion):
     markdown += f"\n{excursion['Description'].strip()}\n\n"
 
     if excursion.get('WhatSee'):
-        markdown += f"##### What you will see\n\n"
+        markdown += f"**What you will see**\n\n"
         markdown += f"{excursion['WhatSee'].strip()}\n\n"
 
     if excursion.get('WhatVisit'):
-        markdown += f"##### What you will visit\n\n"
+        markdown += f"**What you will visit**\n\n"
         markdown += f"{excursion['WhatVisit'].strip()}\n\n"
 
     notes = excursion.get('Notes')
