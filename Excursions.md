@@ -40,7 +40,7 @@ Start by heading to the 18th century Gödöllő Palace. Here take the opportunit
 
 Gödöllő Royal Palace, Lázár Horse show
 
-**There is an additional cost for this optional tour. By selecting this tour, you agree to pay € [@SellPrice] Euros to your stateroom account once onboard. You may remove this optional tour up until 3 days prior to the date of activity in order to avoid cancellation penalties. A minimum number of participants is required in order to operate optional tours. Please speak to your Cruise Manager once onboard for additional information.**
+**There is an additional cost for this optional tour. By selecting this tour, you agree to pay € 185 Euros to your stateroom account once onboard. You may remove this optional tour up until 3 days prior to the date of activity in order to avoid cancellation penalties. A minimum number of participants is required in order to operate optional tours. Please speak to your Cruise Manager once onboard for additional information.**
 
 ## Budapest - Tue, Jul 08
 
@@ -230,7 +230,7 @@ Live Performance
 
 Local Vienna Venue
 
-**There is an additional cost for this optional tour. By selecting this tour, you agree to pay € [@SellPrice] Euros to your stateroom account once onboard. You may remove this optional tour up until 3 days prior to the date of activity in order to avoid cancellation penalties. A minimum number of participants is required in order to operate optional tours. Please speak to your Cruise Manager once onboard for additional information.**
+**There is an additional cost for this optional tour. By selecting this tour, you agree to pay € 99 Euros to your stateroom account once onboard. You may remove this optional tour up until 3 days prior to the date of activity in order to avoid cancellation penalties. A minimum number of participants is required in order to operate optional tours. Please speak to your Cruise Manager once onboard for additional information.**
 
 ## Grein - Fri, Jul 11
 
@@ -558,7 +558,7 @@ Folklore Dinner show
 
 U Marcanu Restaurant or Eureka Restaurant
 
-**There is an additional cost for this optional tour. By selecting this tour, you agree to pay € [@SellPrice] Euros to your stateroom account once onboard. You may remove this optional tour up until 3 days prior to the date of activity in order to avoid cancellation penalties. A minimum number of participants is required in order to operate optional tours. Please speak to your Cruise Manager once onboard for additional information.**
+**There is an additional cost for this optional tour. By selecting this tour, you agree to pay € 84 Euros to your stateroom account once onboard. You may remove this optional tour up until 3 days prior to the date of activity in order to avoid cancellation penalties. A minimum number of participants is required in order to operate optional tours. Please speak to your Cruise Manager once onboard for additional information.**
 
 ## Prague - Wed, Jul 16
 
@@ -582,5 +582,5 @@ Nazi concentration camp
 
 Fortress, Museum
 
-**There is an additional cost for this optional tour. By selecting this tour, you agree to pay € [@SellPrice] Euros to your stateroom account once onboard. You may remove this optional tour up until 3 days prior to the date of activity in order to avoid cancellation penalties. A minimum number of participants is required in order to operate optional tours. Please speak to your Cruise Manager once onboard for additional information.**
+**There is an additional cost for this optional tour. By selecting this tour, you agree to pay € 69 Euros to your stateroom account once onboard. You may remove this optional tour up until 3 days prior to the date of activity in order to avoid cancellation penalties. A minimum number of participants is required in order to operate optional tours. Please speak to your Cruise Manager once onboard for additional information.**
 

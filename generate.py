@@ -24,8 +24,13 @@ def format_excursion(excursion):
         markdown += f"##### What you will visit\n\n"
         markdown += f"{excursion['WhatVisit'].strip()}\n\n"
 
-    if excursion.get('Notes'):
-        markdown += f"**{excursion['Notes'].strip()}**\n\n"
+    notes = excursion.get('Notes')
+    if notes:
+        # Check if SellPrice exists and is not null, and replace placeholder in notes
+        sell_price = excursion.get('SellPrice')
+        if sell_price is not None:
+            notes = notes.replace('[@SellPrice]', str(sell_price))
+        markdown += f"**{notes.strip()}**\n\n"
 
     return markdown
 
