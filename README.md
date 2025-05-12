@@ -46,7 +46,7 @@ Notes for generation.
 * `POIName`, `Date` is used to make the title of the day.
 * Show Full Day, Morning, Afternoon, Evening, in that order for each day.
   * Don't show anything if there's nothing for that section.
-* Only show things with a `Difficulty` value. Hide the rest.
+* Only show things with a `Difficulty` value and exclude activities with type "TXFR". Hide the rest.
 * Append `Notes` to the end of each excursion entry in bold markdown text.
 * Prepend an emoji to the excursion name based on the `Type`:
     *   "ALT": 🔄

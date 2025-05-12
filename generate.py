@@ -61,8 +61,8 @@ def generate_excursions_markdown(activities_data):
     # Group activities by day (POI and Date)
     activities_by_day = {}
     for activity in activities_data:
-        # Only include activities with a Difficulty value
-        if activity.get('Difficulty'):
+        # Exclude activities with type "TXFR" and only include those with a Difficulty value
+        if activity.get('Type') != 'TXFR' and activity.get('Difficulty'):
             date_str = activity['Date']
             poi_name = activity['POIName']
             day_key = (date_str, poi_name)
@@ -105,8 +105,8 @@ def generate_excursions_csv(activities_data):
     csv_content.append(headers)
 
     for activity in activities_data:
-        # Only include activities with a Difficulty value
-        if activity.get('Difficulty'):
+        # Exclude activities with type "TXFR" and only include those with a Difficulty value
+        if activity.get('Type') != 'TXFR' and activity.get('Difficulty'):
             # Extract data, handling potential missing keys gracefully
             poi_name = activity.get('POIName', '')
             date_str = activity.get('Date', '')

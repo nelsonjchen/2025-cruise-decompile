@@ -473,28 +473,6 @@ Passau's City theater, St. Michael's Church, Neue Bischofliche Residenz (New Epi
 
 Experience the hospitality of Vilshofen, a charming Bavarian town.  You will be welcomed by representatives from the city and treated to a performance of Bavarian folk music and dancing. This mini “Oktoberfest” celebration is held exclusively for AmaWaterways' guests and includes complimentary Bavarian beer.
 
-## Vilshofen an der Donau - Mon, Jul 14
-
-### Full Day
-
-####  Vilshofen to Prague Transfer & Regensburg Walking Tour
-
-* Excursion Time: Full Day
-* Duration: 8 hrs
-* Level of Difficulty: 1
-* Duration of walk: 1 hr
-* Duration of bus ride: 5 hrs 30 mins
-
-Depart the ship and head to Regensburg for a guided walking tour. This city’s long history from Roman times to the present day can be best appreciated with a simple stroll through its charming streets. Regensburg is home to one of the oldest restaurants in the world, the Sausage Kitchen, notable for feeding the masons who built the Stone Bridge centuries ago. The adjacent Stone Bridge is a masterwork of medieval construction and now serves as a proud symbol of the city. Afterwards, enjoy free time to explore this unspoiled town before departing for Prague. Take in the scenic beauty of the countryside of Franconia and Bohemia before arriving at the hotel in Prague.
-
-**What you will see**
-
-Bohemian and Franconian countryside
-
-**What you will visit**
-
-UNESCO World Heritage Site – “Regensburg Old Town”
-
 ## Prague - Tue, Jul 15
 
 ### Morning
